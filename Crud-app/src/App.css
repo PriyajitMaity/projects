@@ -1,0 +1,133 @@
+.App{
+    text-align: center;
+}
+
+.table-data{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+.table{
+    width: 90%;
+    border-collapse: collapse;
+}
+.table thead th{
+    background-color: #f2f2f2;
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 10px;
+}
+.table tbody td{
+    /* border-bottom: 1px solid #af3939; */
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+}
+.table tbody tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+.table tbody th{
+    border: 2px solid #dddddd;
+    text-align: left;
+    padding: 5px;
+}
+.table tbody th:first-child{
+    background-color: #f2f2f2;
+}
+.create-btn{
+    background-color: rgb(79, 143, 60);
+    height: 2.5rem;
+    width: 6rem;
+    font-size: 20px;
+    border: none;
+    border-radius: 8px;
+    color: #f2f2f2;
+    cursor: pointer;
+
+}
+.create-btn:hover{
+    background-color: rgb(23, 190, 51);
+    
+}
+.create-edit{
+    height: 30px;
+    margin: 2px;
+    width: 3rem;
+    padding-right: 5px;
+    background-color: #016199;
+    border: none;
+    border-radius: 8px;
+    color: #f2f2f2;
+    cursor: pointer;
+}
+.create-edit:hover{
+    background-color: #f09917;
+    color: #000000;
+}
+.create-delete:hover{
+    background-color: #f09917;
+    color: #000000;
+}
+
+.create-delete{
+    height: 30px;
+    border: none;
+    background-color: rgb(233, 46, 46);
+    border-radius: 8px;
+    color: #f2f2f2;
+    cursor: pointer;
+}
+.add-edit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #016199;
+    height: 400px;
+    width: 50%;
+}
+.edit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+.edit-form{
+    background-color: #5095bd;
+    height: 350px;
+    width: 600px;
+    border-radius: 15px;
+    
+}
+.edit-inp{
+    width: 90%;
+    height: 31px;
+    background-color: #f8f8f8;
+    margin: 5px;
+    border: none;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    border-radius: 5px;
+}
+.edit-name{
+    display: flex;
+    color: #f2f2f2;
+    padding-left: 20px;
+    margin-bottom: 5px;
+    font-size: 1.5rem;
+    font-weight: 5px;
+}
+.update{
+    background-color: #f09917;
+    margin-top: 15px;
+    height: 3rem;
+    width: 7rem;
+    border: none;
+    border-radius: 15px;
+    font-size: 25px;
+    cursor: pointer;
+}
+.update:hover{
+    background-color: #000000;
+    color: #f09917;
+}
