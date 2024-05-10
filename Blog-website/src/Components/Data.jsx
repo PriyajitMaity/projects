@@ -1,4 +1,4 @@
-const Data =[
+const data =[
     {
         title: 'Sample Post 1',
         content: 'This is the content of the first post.',
@@ -12,4 +12,4 @@ const Data =[
         date: 'December 23, 2023'
     }
 ]
-export default Data;
+export default data;

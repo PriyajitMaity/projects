@@ -12,11 +12,13 @@ function App() {
     <BrowserRouter>
       <div>
         <Header/>
-        <Routes>
-          <Route exact path="/" component={<List/>} />
-          <Route path="/post/:id" component={<Detail/>} />
-          <Route path="/create" component={<Form/>} />
-        </Routes>
+        <div>
+          <Routes>
+            <Route exact path="/" element={<List/>} />
+            <Route path="/post/:id" element={<Detail/>} />
+            <Route path="/create" element={<Form/>} />
+          </Routes>
+        </div>
       </div>
     </BrowserRouter>
   )
