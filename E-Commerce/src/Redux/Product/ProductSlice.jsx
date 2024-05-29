@@ -1,7 +1,15 @@
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 import axios from "axios";
 import { STATUS } from "../../constants/Status";
+
 const base_url = "https://fakestoreapi.com/";
+
+
+export const fetchProducts = createAsyncThunk("fetch/prodcuts", async () => {
+  const data = await axios.get(`${base_url}products`).then((res) => res.data);
+  return data;
+});
+
 
 const initialState = {
   status: "",
@@ -28,9 +36,5 @@ const productSlice = createSlice({
 
 //fetching product using build in thunk on toolkit
 
-export const fetchProducts = createAsyncThunk("fetch/prodcuts", async () => {
-  const data = await axios.get(`${base_url}products`).then((res) => res.data);
-  return data;
-});
 
 export default productSlice.reducer;
