@@ -9,6 +9,14 @@ Insert gif or link to demo
 
 
 - [View Demo](https://iridescent-cranachan-84e4f2.netlify.app)
+- ## Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- React Js
+- Redux 
+- Redux-Toolkit
 
 ### Screenshots
 ![addocart](https://github.com/PriyajitMaity/projects/assets/134254753/206ce03b-32d9-4fb4-9ca3-9623f0f1abc0)
