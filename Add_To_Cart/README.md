@@ -5,10 +5,9 @@
 
 ## Demo
 
-Insert gif or link to demo
 
+- [Add To Cart](https://iridescent-cranachan-84e4f2.netlify.app)
 
-- [View Demo](https://iridescent-cranachan-84e4f2.netlify.app)
 ## Tech Stack
 
 - HTML
