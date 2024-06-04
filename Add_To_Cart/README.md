@@ -9,7 +9,7 @@ Insert gif or link to demo
 
 
 - [View Demo](https://iridescent-cranachan-84e4f2.netlify.app)
-- ## Tech Stack
+## Tech Stack
 
 - HTML
 - CSS
