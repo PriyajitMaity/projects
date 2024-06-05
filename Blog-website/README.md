@@ -6,7 +6,7 @@
 ## Demo
 
 
-- [Birhday blog](htttps://brithday-blog.netlify.app)
+- [Birhday blog](https://brithday-blog.netlify.app)
 
 ## Tech Stack
 
