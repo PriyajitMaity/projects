@@ -6,7 +6,7 @@
 ## Demo
 
 
-- [Birhday blog](https://brithday-blog.netlify.app)
+- [Demo]((https://monumental-dusk-559699.netlify.app))
 
 ## Tech Stack
 
@@ -15,6 +15,7 @@
 - JavaScript
 - React Js
 - useState
+- react-router
 
 ### Screenshots
 
