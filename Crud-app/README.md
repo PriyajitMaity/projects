@@ -18,5 +18,5 @@
 - react-router
 
 ### Screenshots
-![creenshot (8)](https://github.com/PriyajitMaity/projects/assets/134254753/ea688a8b-9ed7-462b-9f20-72e902ae7183)
+![Screenshot (9)](https://github.com/PriyajitMaity/projects/assets/134254753/ad60db6d-dfa9-4146-b9b5-feeedcf5caf2)
 
