@@ -13,7 +13,6 @@
 - CSS
 - JavaScript
 - React Js
-- useState, useReac
 
 ## Screenshots
 ![Screenshot (19)](https://github.com/PriyajitMaity/projects/assets/134254753/28b0d19d-d37b-42fb-a984-8d0858e402c2)
