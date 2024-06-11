@@ -8,7 +8,7 @@
 
 - [Demo](https://blog-websit.netlify.app)
 
-## Tech Stack
+# Tech Stack
 
 - HTML
 - CSS
