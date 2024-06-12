@@ -4,7 +4,7 @@
 
 ## Demo
 
-- [Demo](https://priyojeet-e-commerce.netlify.app/)
+- [E-Commerce](https://priyojeet-e-commerce.netlify.app/)
 
 ## Tech Stack
 
