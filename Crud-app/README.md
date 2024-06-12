@@ -6,7 +6,7 @@
 ## Demo
 
 
-- [Demo](https://priyojeet-crud-app.netlify.app)
+- [Crud site](https://priyojeet-crud-app.netlify.app)
 
 ## Tech Stack
 
