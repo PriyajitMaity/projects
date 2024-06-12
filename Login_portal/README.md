@@ -3,7 +3,7 @@
 
 
 ## Demo
-- [Demo](https://priyojeet-login-portal.netlify.app)
+- [Login](https://priyojeet-login-portal.netlify.app)
 
 ## Tech Stack
 
