@@ -5,7 +5,7 @@
 
 
 ## Demo
-- [Wishlist](https://priyojeet-crud-app.netlify.app)
+- [Wishlist](https://priyojeet-wishlist.netlify.app/)
 
 ## Tech Stack
 
