@@ -17,5 +17,6 @@
 
 
 ### Screenshots
-![Screenshot (9)](https://github.com/PriyajitMaity/projects/assets/134254753/ad60db6d-dfa9-4146-b9b5-feeedcf5caf2)
+![Screenshot (21)](https://github.com/PriyajitMaity/projects/assets/134254753/78895200-0df2-4b21-9ac5-73e69d246213)
+
 
