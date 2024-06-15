@@ -5,7 +5,7 @@
 ## Demo
 
 
-- [Demo](https://priyojeet-tic-tac-toe.netlify.app/)
+- [Demo](https://spotfy-cl0ne.netlify.ap)
 
 ## Tech Stack
 
@@ -19,5 +19,5 @@
 
 
 ### Screenshots
-![Screenshot (20)](https://github.com/PriyajitMaity/projects/assets/134254753/487027cc-b618-40a1-8637-3796fe6a045b)
+![Screenshot (22)](https://github.com/PriyajitMaity/projects/assets/134254753/5788dc28-052f-4a97-8b32-f233ff483cec)
 
