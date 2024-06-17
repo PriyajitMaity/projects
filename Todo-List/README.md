@@ -5,7 +5,7 @@
 ## Demo
 
 
-- [Demo](https://priyojeet-tic-tac-toe.netlify.app/)
+- [To-Do-List](https://radiant-todolist.netlify.app/)
 
 ## Tech Stack
 
