@@ -11,7 +11,7 @@
 - React Js
 - Redux
 - Redux-toolkit
-- React-slick
+- React-Slice
 
 ### Screenshots
 ![Screenshot (17)](https://github.com/PriyajitMaity/projects/assets/134254753/639743ce-7782-4559-b6b7-fb021e520708)
