@@ -6,13 +6,6 @@
 - [Demo](https://spotfy-cl0ne.netlify.ap)
 
 ## Tech Stack
-- HTML
-- CSS
-- JavaScript
-- React Js
-- Redux-toolkit
-- Redux-thunk
-- authentication
 
 
 ### Screenshots
