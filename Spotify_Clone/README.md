@@ -3,7 +3,7 @@
 
 
 ## Demo
-- [Demo](https://spotfy-cl0ne.netlify.ap)
+- [Demo](https://spotfy-cl0ne.netlify.app)
 
 ## Tech Stack
 - HTML
