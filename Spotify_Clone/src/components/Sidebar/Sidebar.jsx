@@ -1,4 +1,3 @@
-import React from "react";
 import './Sidebar.scss';
 
 const Sidebar = () => {
@@ -26,12 +25,12 @@ const Sidebar = () => {
                     <div className="menubar-scroll">
                         <div className="create-playlist">
                             <h4>Create your first playlist</h4>
-                            <p>It's easy, we'll help you</p>
+                            <p>Its easy, we wll help you</p>
                             <button>Create Playlist</button>
                         </div>
                         <div className="create-playlist">
-                            <h4>Let's find some podcasts to follow</h4>
-                            <p>We'll keey you updated on new episodes</p>
+                            <h4>Lets find some podcasts to follow</h4>
+                            <p>We wll keey you updated on new episodes</p>
                             <button>Browse podcasts</button>
                         </div>
                     </div>
@@ -39,7 +38,7 @@ const Sidebar = () => {
             </ul> 
             <div className="language-btn">
                 <button>
-                <i class="fa-solid fa-globe"></i>
+                <i className="fa-solid fa-globe"></i>
                 <p>English</p></button>
             </div>             
         </div>                           

@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import './header.scss';
 import{ Link } from 'react-router-dom';
 import user from '../../common/images/user1.png';

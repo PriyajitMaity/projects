@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import  { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { fetchAllArtists } from "../../Slices/allArtistSlice";
 import './AllArtist.scss';
@@ -11,7 +11,7 @@ const AllArtist = () => {
 
     useEffect(() =>{
        dispatch(fetchAllArtists());
-       console.log(allArtists);
+      //  console.log(allArtists);
     }, [dispatch])
 
     if(loading){
@@ -20,7 +20,6 @@ const AllArtist = () => {
   return (
     <main>
         <h1 className="top-artist">Top Artists</h1>
-        
         
         <div className="artists-list" >
           { allArtists ? (

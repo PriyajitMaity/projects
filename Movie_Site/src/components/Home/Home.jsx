@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import  { useEffect } from 'react'
 import MovieListing from '../MovieListing/MovieListing'
 import './Home.scss';
 import { useDispatch, useSelector } from 'react-redux';
