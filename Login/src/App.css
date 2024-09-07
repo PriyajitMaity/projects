@@ -1,0 +1,100 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ccc6f7;
+  text-align: center;
+}
+.heading{
+  margin-bottom: 30px;
+}
+form{
+  margin: 8px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+form input{
+  width: 350px;
+  height: 40px;
+  border-radius: 6px;
+  font-size: 16px;
+  border: 2px solid #3a3737;
+  padding: 15px;
+  outline: none;
+  margin: 8px;
+}
+.label-name{
+  position: absolute;
+  color: black;
+  font-size: 18px;
+  left: 95px;
+  top: 10%;
+  transform: translateY(-50%);
+  pointer-events: none;
+  transition: .3s;
+}
+.user-inp:focus{
+  border: 2px solid #1cd679;
+}
+.user-inp:focus + label, 
+.user-inp:valid + label{
+  top: 5%;
+  font-size: 16px;
+  padding: 0 10px;
+  background: #ccc6f7;
+  border-radius: 6px;
+}
+.label-pass{
+  position: absolute;
+  color: black;
+  font-size: 18px;
+  left: 95px;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+  transition: .3s;
+}
+.pass-inp:focus{
+  border: 2px solid #1cd679;
+}
+.pass-inp:focus + label,
+.pass-inp:valid + label{
+  top: 45%;
+  font-size: 16px;
+  padding: 0 10px;
+  background: #ccc6f7;
+  border-radius: 6px;
+}
+form span{
+  color: red;
+  font-size: 15px;
+}
+form button{
+  width: 100px;
+  height: 30px;
+  border: 2px solid;
+  border-radius: 10px;
+  background-color: #7463f7;
+  font-size: 18px;
+  color: #fff;
+  padding-bottom: 3px;
+  background-image: linear-gradient(45deg, red, yellow) ;
+}
+button:hover{
+  cursor: pointer;
+  border: 2px solid #1cd679 ;
+}
+.user{
+  display: flex;
+  flex-direction: column;
+}
